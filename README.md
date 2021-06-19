@@ -22,7 +22,7 @@
 <a href="https://twitter.com/Hafieeedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafieeeedh" height="30" width="40" /></a>
 <a href=https://www.linkedin.com/in/muhammad-h-760005113/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hafidh" height="30" width="40" /></a>
 <a href="https://instagram.com/hafiedh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafiedh__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammad hafiedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad hafiedh" height="30" width="40" /></a>
+<a href=https://www.youtube.com/channel/UCnDX6PcS0o39s2JXjjwI_jg target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad hafiedh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
