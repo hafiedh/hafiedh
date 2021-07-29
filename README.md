@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafiedh" alt="hafiedh" /></a> </p>
 
-- 🔭 I’m currently working on [Mosibit](https://github.com/MOSIBIT)
+- 🔭 I’m currently working on Self-learning
 
 - 🌱 I’m currently learning **android development, kotlin, firebase**
 
