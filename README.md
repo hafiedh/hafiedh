@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Self-learning
 
 - 🌱 I’m currently learning **android development, kotlin, firebase**
-- 🌱 I’m currently Build **Catazas Indonesia**
+- :handshake: I’m currently Build **Catazas Indonesia**
 - 👨‍💻 All of my projects are available at [https://github.com/hafiedh](https://github.com/hafiedh)
 
 - 💬 Ask me about **android development**
