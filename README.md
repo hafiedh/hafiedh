@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafiedh" alt="hafiedh" /></a> </p>
 
-- 🔭 I’m currently working on Self-learning
+- 🔭 Self-Learning
 
-- 🌱 I’m currently learning **android development, kotlin, firebase**
+- 🌱 I’m currently learning **android development, kotlin, firebase, nodeJs,**
 - :handshake: I’m currently Build **Catazas Indonesia**
 - 👨‍💻 All of my projects are available at [https://github.com/hafiedh](https://github.com/hafiedh)
 
