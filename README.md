@@ -31,4 +31,5 @@
 ## 📊 Github Stats 
 ![Hafiedh github stats](https://github-readme-stats.vercel.app/api?username=hafiedh&theme=nord&show_icons=true&count_private=true)
 
-
+## 📊 Github Activity Graph Hafiedh
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hafiedh)](https://github.com/ashutosh00710/github-readme-activity-graph)
