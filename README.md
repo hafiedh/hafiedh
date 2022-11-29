@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hafidh</h1>
-<h3 align="center">A passionate about mobile programming</h3>
+<h3 align="center">A passionate about mobile programming, Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiedh&label=Profile%20views&color=0e75b6&style=flat" alt="hafiedh" /> </p>
 
@@ -11,7 +11,7 @@
 - :handshake: I’m currently Build **Catazas Indonesia**
 - 👨‍💻 All of my projects are available at [https://github.com/hafiedh](https://github.com/hafiedh)
 
-- 💬 Ask me about **android development** **backend**
+- 💬 Ask me about **android development** **,backend**
 
 - 📫 How to reach me **muhhafiedh@gmail.com**
 
