@@ -11,7 +11,7 @@
 - :handshake: I’m currently Build **Catazas Indonesia**
 - 👨‍💻 All of my projects are available at [https://github.com/hafiedh](https://github.com/hafiedh)
 
-- 💬 Ask me about **android development** **,backend**
+- 💬 Ask me about **android development** **, backend**
 
 - 📫 How to reach me **muhhafiedh@gmail.com**
 
