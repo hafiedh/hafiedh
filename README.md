@@ -7,11 +7,10 @@
 
 - 🔭 Self-Learning
 
-- 🌱 I’m currently learning **android development, kotlin, firebase, golang, backend**
-- :handshake: I’m currently Build **Catazas Indonesia**
+- 🌱 I’m currently learning golang, backend**
 - 👨‍💻 All of my projects are available at [https://github.com/hafiedh](https://github.com/hafiedh)
 
-- 💬 Ask me about **android development** **, backend**
+- 💬 Ask me about **, backend**
 
 - 📫 How to reach me **muhhafiedh@gmail.com**
 
