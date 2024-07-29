@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hafidh</h1>
 <h3 align="center">A passionate about mobile programming, Backend</h3>
+<a href="https://app.daily.dev/hafiedh"><img src="https://api.daily.dev/devcards/v2/T6APwkmzLlBK27DI6X8jJ.png?r=wpb&type=wide" width="652" alt="Muhammad Hafidh's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiedh&label=Profile%20views&color=0e75b6&style=flat" alt="hafiedh" /> </p>
 
